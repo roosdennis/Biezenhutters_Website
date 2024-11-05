@@ -1,0 +1,18 @@
+/* public/css/style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header nav a {
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+header nav a:hover {
+    color: #ccc;
+}
